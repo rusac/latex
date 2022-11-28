@@ -25,6 +25,7 @@
 - [Changing font size](https://latex-tutorial.com/changing-font-size/)
 
 ### Graphs in LaTeX
+- [Plotting functions and data](https://latexdraw.com/plot-a-function-and-data-in-latex/)
 - [PSTricks - Using PSTricks for drawings/graphs](https://www.tug.org/PSTricks/main.cgi?file=Examples/Gallery/Gallery)
 - [Latex to SVG - useful for exporting images with transparent backgrounds](https://viereck.ch/latex-to-svg/)
 - Cartesian grid how-to: https://tex.stackexchange.com/questions/222882/drawing-minimal-xy-axis
