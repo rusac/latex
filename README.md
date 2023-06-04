@@ -56,6 +56,10 @@
 - [Grid-based diagram maker](https://app.diagrams.net/)
 - [Detextify - draw a shape and get the LaTeX command for it](http://detexify.kirelabs.org/classify.html?)
 
+### Stackexchange thread on typography and page layouts
+
+- [Showcase of beautiful typography done in TeX & friends](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends)
+
 ### Other
 - [Creating LaTeX commands](https://artofproblemsolving.com/wiki/index.php?title=LaTeX:Commands)
 - [The Not-So Short Introduction to Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
